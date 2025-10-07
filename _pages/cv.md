@@ -58,21 +58,12 @@ Aspiring civil engineer passionate about infrastructure design, sustainable deve
 - **Technical Knowledge:** Structural Analysis, Drafting & Design, Engineering Calculations  
 - **Soft Skills:** Collaboration, Public Speaking, Problem-Solving, Deadline Management  
 
----
-
-#### Achievements & Certifications
-*(Optional – Add relevant achievements or certifications here if applicable)*
 
 ---
 
 #### Extracurricular Activities
 - Member, Engineers Without Borders  
 - Mentor, Cornell EMPower Program  
-
----
-
-#### References
-Available upon request.
 
 ---
 
