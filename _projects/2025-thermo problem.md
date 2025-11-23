@@ -1,6 +1,6 @@
 ---
 layout: Homework Assignment 
-title:  Analysis of a Real-World Engineering System and Performance Modification
+title:  Analysis of System and Performance Modification
 description: Class problem for portfolio
 technologies: Experimental Data Collection, Lab Aparatice
 image: /assets/images/Screenshot 2025-11-23 170213.png
