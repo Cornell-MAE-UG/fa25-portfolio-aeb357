@@ -15,4 +15,4 @@ My research experience at the Engineering Summer Math Institute allowed me to ex
 
 With technical proficiency in tools like AutoCAD and Excel, and a working knowledge of Agile practices and structural analysis, I bring a well-rounded approach to engineering challenges. I am passionate about designing practical, sustainable solutions and thrive in collaborative environments where I can apply both technical and interpersonal skills to make a meaningful impact.
 
-Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
+Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a> and <a href="{{ "/core_values/" | relative_url }}">My Core Values</a>.
