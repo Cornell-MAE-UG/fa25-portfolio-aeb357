@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Alfonso E. Barbaran - Curriculum Vitae
+title: Alfonso E. Barbaran - My Core Values
 permalink: /My Core Values/
 ---
 
-## Curriculum Vitae
+## My Core Values
 
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
