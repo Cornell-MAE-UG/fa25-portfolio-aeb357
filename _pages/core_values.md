@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Alfonso E. Barbaran - Curriculum Vitae
-permalink: /cv/
+permalink: /My Core Values/
 ---
 
 ## Curriculum Vitae
