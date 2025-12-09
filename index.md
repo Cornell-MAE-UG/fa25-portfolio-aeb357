@@ -8,11 +8,14 @@ title: <Alfonso Barbaran>
 
 ![Profile Picture]({{ "assets/images/headshot.jpg" | relative_url }}){: class="profile-image"}
 
+
+
+
+
+
+
+
  
-My name is Alfonso Barbaran, and I am a first-generation student at Cornell University pursuing a degree in Civil Engineering. Growing up in Newark, New Jersey, I witnessed firsthand how construction can strengthen and transform communities. Those experiences solidified my passion for civil engineering and inspired me to pursue a career focused on building environments that improve people’s lives.
+My name is Alfonso Barbaran, a first-generation student at Cornell University studying Civil Engineering. Growing up in Newark, New Jersey, I saw how thoughtful construction can strengthen communities, and those experiences shaped both my identity and my career goals. I’m driven by discipline, community, and the desire to build environments that uplift the people who live in them.
 
-Community has always been important to me. Whether I’m spending time with friends, attending office hours, or contributing to my project team with Engineers Without Borders, I enjoy being engaged and supporting the people around me. I’m an early bird and try to maintain a disciplined lifestyle that helps me stay focused on my academic and personal goals.
-
-Outside of engineering, I’m a huge film enthusiast. I’m drawn to the sets, whether practical or CGI, and the way structures shape the worlds we see on screen. That blend of creativity and design fuels my own dreams. My dream is to become a project manager and one day start my own firm, combining technical expertise with the vision to build spaces that inspire.
-
-Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a> and <a href="{{ "/My Core Values/" | relative_url }}">My Core Values</a>.
+Beyond academics, I stay grounded by getting involved—whether that’s collaborating with my Engineers Without Borders team, spending time with friends, or showing up early to learn and connect. I’m also a film enthusiast who loves the art of worldbuilding, from practical sets to CGI landscapes. That blend of creativity and engineering fuels my long-term goal of becoming a project manager and eventually starting my own firm.
