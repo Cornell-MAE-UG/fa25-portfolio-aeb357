@@ -6,65 +6,11 @@ permalink: /My Core Values/
 
 ## My Core Values
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+As a first-generation Civil Engineering student at Cornell University, my core values are shaped by my experiences growing up in Newark, New Jersey and by the goals I’ve set for my future. Community Impact is central to who I am. From an early age, I saw how construction can reshape neighborhoods, provide stability, and create opportunities. This taught me to view engineering as more than technical work, but as well as a responsibility to build structures that support and uplift the people who rely on them.
 
-**Email:** [aeb357@cornell.edu](mailto:aeb357@cornell.edu) &nbsp;&nbsp;&nbsp; **Phone:** (973) 342-5392 &nbsp;&nbsp;&nbsp; **LinkedIn:** [linkedin.com/in/alfonso-barbaran](https://www.linkedin.com/in/alfonso-barbaran)
+Discipline is equally as important. I’m an early riser, and maintaining structure in my daily life helps me stay grounded, focused, and prepared. Whether it’s showing up to office hours or dedicating time to my project team with Engineers Without Borders, I believe discipline creates consistency, and consistency leads to growth.
 
----
+My passion for film reflects another core value: Curiosity and Creativity. I’m fascinated by the worlds built on-screen, from practical sets to complex CGI environments. This curiosity inspires my engineering work, reminding me that creativity and technical skill can and should coexist in meaningful ways.
 
-#### Objective
-Aspiring civil engineer passionate about infrastructure design, sustainable development, and community-driven engineering solutions. Eager to apply technical and leadership skills to real-world challenges in structural and civil engineering.
-
----
-
-#### Education
-- **Cornell University**  
-  *Bachelor of Science in Civil Engineering*  
-  Relevant Coursework: Structural Mechanics, Engineering Computation, CAD for Infrastructure, Project Management  
-  Expected Graduation: May 2028
-
----
-
-#### Work Experience
-- **Engineers Without Borders – Domestic Subteam Member**  
-  *Ithaca, NY | September 2025 – Present*  
-  - Collaborate with peers and community partners to design sustainable engineering solutions for domestic infrastructure challenges.  
-  - Apply classroom knowledge to real-world projects, emphasizing user-centered design, feasibility analysis, and community impact.  
-  - Participate in design reviews, technical discussions, and cross-functional teamwork to ensure long-term project viability.
-
-- **Cornell EMPower Mentorship Program – Mentor**  
-  *Ithaca, NY | September 2025 – Present*  
-  - Support first-year engineering students through academic, social, and professional transitions.  
-  - Guide mentees on research preparation, leadership development, and navigating campus resources.  
-  - Foster community building and retention through one-on-one mentorship and group events.
-
-- **Engineering Summer Math Institute – Researcher**  
-  *Ithaca, NY | June 2025 – August 2025*  
-  - Built a discrete-event simulation in Python (SimPy) to model project permitting backlogs.  
-  - Evaluated policy reform impacts on timelines and sustainability, mirroring real-world infrastructure planning.  
-  - Presented results through visuals and research poster, showcasing technical communication skills.
-
-- **Audible – Intern**  
-  *Newark, NJ | August 2023 – June 2024*  
-  - Collaborated with software engineers and product managers to enhance mobile features using SwiftUI.  
-  - Conducted user research and synthesized insights to improve app usability and customer satisfaction.  
-  - Participated in Agile workflows, sprint planning, and retrospectives, reinforcing collaborative project execution.
-
----
-
-#### Skills
-- **Construction & Engineering Tools:** Microsoft Excel, AutoCAD, Figma  
-- **Project Management:** JIRA, Trello, Agile/Scrum practices  
-- **Technical Knowledge:** Structural Analysis, Drafting & Design, Engineering Calculations  
-- **Soft Skills:** Collaboration, Public Speaking, Problem-Solving, Deadline Management  
-
-
----
-
-#### Extracurricular Activities
-- Member, Engineers Without Borders  
-- Mentor, Cornell EMPower Program  
-
----
-
+I also value Leadership Through Service. I enjoy being part of collaborative environments, supporting those around me, and contributing positively to any team I join and is also the reason why I have participated as a peer mentor throughout my time. I see myself as a leader, trying to bring people togther and share with them my experiences and give advice. 
 
