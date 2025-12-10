@@ -15,4 +15,7 @@ My passion for film reflects another core value: Curiosity and Creativity. I’m
 I also value Leadership Through Service. I enjoy being part of collaborative environments, supporting those around me, and contributing positively to any team I join and is also the reason why I have participated as a peer mentor throughout my time. I see myself as a leader, trying to bring people togther and share with them my experiences and give advice. 
 
 
-| ![](/assets/images/estos-son-los-25-edificios-mas-altos-del-mundo-ahora_26.jpg) | ![](/assets/images/IMG_2469.png) |
+<p align="center">
+  <img src="/assets/images/estos-son-los-25-edificios-mas-altos-del-mundo-ahora_26.jpg" width="300">
+  <img src="/assets/images/IMG_2469.png" width="300" style="margin-left: 10px;">
+</p>
