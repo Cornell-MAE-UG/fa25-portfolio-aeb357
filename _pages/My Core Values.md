@@ -16,7 +16,7 @@ I also value Leadership Through Service. I enjoy being part of collaborative env
 
 <div style="text-align: center;">
   <img src="https://raw.githubusercontent.com/Cornell-MAE-UG/fa25-portfolio-aeb357/main/assets/images/estos-son-los-25-edificios-mas-altos-del-mundo-ahora_26.jpg" 
-       style="display: inline-block; height: 300px; width: auto; margin-right: 10px;">
+       style="display: inline-block; height: 200px; width: auto; margin-right: 10px;">
   <img src="https://raw.githubusercontent.com/Cornell-MAE-UG/fa25-portfolio-aeb357/main/assets/images/IMG_2469.png" 
-       style="display: inline-block; height: 300px; width: auto; margin-left: 10px;">
+       style="display: inline-block; height: 100px; width: auto; margin-left: 10px;">
 </div>
