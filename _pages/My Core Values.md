@@ -15,7 +15,13 @@ My passion for film reflects another core value: Curiosity and Creativity. I’m
 I also value Leadership Through Service. I enjoy being part of collaborative environments, supporting those around me, and contributing positively to any team I join and is also the reason why I have participated as a peer mentor throughout my time. I see myself as a leader, trying to bring people togther and share with them my experiences and give advice. 
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Cornell-MAE-UG/fa25-portfolio-aeb357/main/assets/images/estos-son-los-25-edificios-mas-altos-del-mundo-ahora_26.jpg" width="400">
-  <img src="https://raw.githubusercontent.com/Cornell-MAE-UG/fa25-portfolio-aeb357/main/assets/images/IMG_2469.png" width="300" style="margin-left: 10px;">
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/Cornell-MAE-UG/fa25-portfolio-aeb357/main/assets/images/estos-son-los-25-edificios-mas-altos-del-mundo-ahora_26.jpg" width="400">
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/Cornell-MAE-UG/fa25-portfolio-aeb357/main/assets/images/IMG_2469.png" width="300">
+    </td>
+  </tr>
+</table>
