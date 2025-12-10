@@ -16,6 +16,6 @@ I also value Leadership Through Service. I enjoy being part of collaborative env
 
 
 <p align="center">
-  <img src="/assets/images/estos-son-los-25-edificios-mas-altos-del-mundo-ahora_26.jpg" width="300">
+  <img src="/assets/images/estos-son-los-25-edificios-mas-altos-del-mundo-ahora_26.jpg" width="500">
   <img src="/assets/images/IMG_2469.png" width="300" style="margin-left: 10px;">
 </p>
